@@ -48,6 +48,5 @@ const tooltip = document.getElementById("tooltip");
         }, 4000);
     }
 
-    setInterval(showCuriosity, 17000);
+    setInterval(Curiosity, 17000);
 
-    showCuriosity();
